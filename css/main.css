@@ -202,6 +202,9 @@ header section{
     width: 578px;
     height: 385px;
     position: relative;
+    transform: scale(1.1);
+    top: 20px;
+    left: 50px;
 }
 
 header section::before{
